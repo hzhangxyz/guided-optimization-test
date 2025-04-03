@@ -1,0 +1,7 @@
+__pycache__
+env
+dist
+.idea
+.vscode
+.coverage*
+*.egg-info
